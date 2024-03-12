@@ -1,10 +1,10 @@
 #上辺：10cm
-top_side = 10
+a = 10
 #下辺：20cm
-bottom_side = 20
+b = 20
 #高さ：5cm
-height = 5
+c = 5
 #公式：台形の面積 =（上辺＋下辺）× 高さ ÷ 2
-area = ((10 + 20)* 5 / 2)
+area = ((a + b)* c / 2)
 #台形の面積
-print("台形の面積は" + str{area} + "㎠") 
+print(str{area} + "㎠") 
