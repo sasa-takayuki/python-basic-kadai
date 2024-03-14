@@ -7,4 +7,4 @@ c = 5
 #公式：台形の面積 =（上辺＋下辺）× 高さ ÷ 2
 area = ((a + b)* c / 2)
 #台形の面積
-print(str(area) + "㎠") 
+print(str(area) + "㎠")
