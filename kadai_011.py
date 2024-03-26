@@ -4,6 +4,6 @@ for i in array:
     print(i)
 
 i = 0
-while array[i] != "冥":
+while array[i] != 9:
     print(array[i])
     i += 1
